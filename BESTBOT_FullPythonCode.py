@@ -1,4 +1,4 @@
-# lzb_bot_v2.py - Liquidity Zone Reversion Bot (UPGRADED)
+# lzb_bot_v2.py - Liquidity Zone Reversion Bot 
 # ✅ Now includes: Daily trend filter, volume filter, SMA200 alignment
 
 import ccxt
